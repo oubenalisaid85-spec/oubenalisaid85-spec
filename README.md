@@ -1,3 +1,5 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME">
+
 <div align="center">
   <img src="https://i.pinimg.com/1200x/3c/b1/21/3cb121100344af53350cd5d484218b6d.jpg" alt="Banner" width="100%" />
 </div>
@@ -13,7 +15,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7C600&center=true&vCenter=true&width=435&lines=Web+Developer;Moroccan+High+School+Student;Code+%E2%80%A2+Learn+%E2%80%A2+Build" alt="Typing SVG" />
 </p>
 
----
+<hr>
 
 ## 🚀 About Me
 
@@ -24,7 +26,7 @@
 - 🧠 Always learning new technologies
 - 🛠️ I love building websites and experimenting with new projects
 
----
+<hr>
 
 ## 💻 Technologies & Tools
 
@@ -32,70 +34,51 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git,github,vscode,mysql" />
 </p>
 
----
+<hr>
 
-## 🌐 What I Do
+## ⚡ GitHub Stats ⚡
 
-I mainly work on web development and enjoy creating:
-
-- Responsive websites
-- Modern user interfaces
-- Interactive web projects
-- Personal projects
-- E-commerce websites
-- Experimental programming projects
-
----
-
-## 📚 Currently Learning
-
-I'm currently improving my skills in:
-
-- JavaScript
-- Modern Front-End Development
-- Web Design
-- Git & GitHub
-- Programming best practices
-
----
-
-## 🎯 My Goal
-
-My goal is to become a professional developer and build useful, creative, and modern digital products.
-
-I'm still learning, experimenting, and building new projects every day.
-
----
-
-## 📊 GitHub Stats
-
+<br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <div align="center">
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width="390" src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=react&border=61dafb&hide_border=true" alt="YOUR_USERNAME" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width="390" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+    </a>
+  </div>
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak" />
-</p>
+<hr>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+## 👨‍💻 Repositories 👨‍💻
 
----
+<br>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/YOUR_USERNAME/REPO_NAME_1" title="REPO_NAME_1"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME_1&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/YOUR_USERNAME/REPO_NAME_2" title="REPO_NAME_2"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME_2&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/YOUR_USERNAME/REPO_NAME_3" title="REPO_NAME_3"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME_3&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/YOUR_USERNAME/REPO_NAME_4" title="REPO_NAME_4"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME_4&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
 
-## 🔥 Projects
+<h4 align="center">
+  <a href="https://github.com/YOUR_USERNAME?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
 
-Some of the things I like building:
-
-🌐 Web Applications  
-🛒 E-commerce Websites  
-🎮 JavaScript Games  
-🎨 Modern UI Designs  
-⚡ Interactive Websites  
-
-Check out my repositories to see what I'm working on.
-
----
+<hr>
 
 ## 🎵 Music
 
@@ -109,7 +92,7 @@ Check out my repositories to see what I'm working on.
   <i>🎧 Check out my favorite album on Spotify</i>
 </p>
 
----
+<hr>
 
 ## 📫 Connect With Me
 
@@ -128,7 +111,7 @@ Check out my repositories to see what I'm working on.
   </a>
 </p>
 
----
+<hr>
 
 <h3 align="center">
   💻 Code • Learn • Build • Repeat
