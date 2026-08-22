@@ -63,7 +63,7 @@ I'm still learning, experimenting, and building new projects every day.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://cdn.prod.website-files.com/6066fd8abc55def880523995/61be0026f2e0b02a8e007392_webdesigner.jpg" />
 </p>
 
 <p align="center">
