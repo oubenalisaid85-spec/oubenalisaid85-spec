@@ -3,74 +3,120 @@
 </div>
 
 <div align="center">
-  <img src="https://i.pinimg.com/736x/a9/18/59/a91859d7883cbc858a53daefe8e14445.jpg" width="150" style="border-radius:50%;" />
+  <img src="https://i.pinimg.com/736x/a9/18/59/a91859d7883cbc858a53daefe8e14445.jpg" width="150" style="border-radius: 50%;" />
 </div>
 
-<h1 align="center">السلام عليكم، أنا سعيد ابنعلي 👋</h1>
-<h3 align="center">💻 مبرمج مواقع | 🇲🇦 طالب ثانوية من المغرب</h3>
+<h1 align="center">👋 Hello, I'm Said Oubenali</h1>
+<h3 align="center">🇲🇦 Moroccan Student & 💻 Web Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7C600&center=true&vCenter=true&width=435&lines=Web+Developer;Moroccan+High+School+Student;Welcome+to+my+GitHub" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7C600&center=true&vCenter=true&width=435&lines=Web+Developer;Moroccan+High+School+Student;Code+%E2%80%A2+Learn+%E2%80%A2+Build" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🚀 عني
+## 🚀 About Me
 
-- 🎓 طالب في الثانوية العامة من المغرب 🇲🇦
-- 💻 شغوف بتطوير المواقع وتعلم كل جديد
-- 🌱 حالياً أتعلم: HTML, CSS, JavaScript, React
-- 🎯 هدفي: أن أصبح مطوّر ويب محترف
+- 🇲🇦 I'm from Morocco
+- 🎓 High school student
+- 💻 Web Developer
+- 🌐 Interested in Front-End & Web Development
+- 🧠 Always learning new technologies
+- 🛠️ I love building websites and experimenting with new projects
 
 ---
 
-## 🛠️ المهارات
+## 💻 Technologies & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git,github,vscode,mysql" />
 </p>
 
 ---
 
-## 📊 إحصائيات GitHub
+## 🌐 What I Do
+
+I mainly work on web development and enjoy creating:
+
+- Responsive websites
+- Modern user interfaces
+- Interactive web projects
+- Personal projects
+- E-commerce websites
+- Experimental programming projects
+
+---
+
+## 📚 Currently Learning
+
+I'm currently improving my skills in:
+
+- JavaScript
+- Modern Front-End Development
+- Web Design
+- Git & GitHub
+- Programming best practices
+
+---
+
+## 🎯 My Goal
+
+My goal is to become a professional developer and build useful, creative, and modern digital products.
+
+I'm still learning, experimenting, and building new projects every day.
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
-## 📁 مشاريعي
+## 🔥 Projects
 
-- 🔥 [اسم المشروع الأول](رابط المشروع) - وصف قصير
-- 💡 [اسم المشروع الثاني](رابط المشروع) - وصف قصير
-- 🚀 [اسم المشروع الثالث](رابط المشروع) - وصف قصير
+Some of the things I like building:
+
+🌐 Web Applications  
+🛒 E-commerce Websites  
+🎮 JavaScript Games  
+🎨 Modern UI Designs  
+⚡ Interactive Websites  
+
+Check out my repositories to see what I'm working on.
 
 ---
 
-## 📫 تواصل معي
+## 📫 Connect With Me
 
 <p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
   <a href="https://discord.gg/RZKAauR4z">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
   <a href="https://wa.me/212721388096">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
 </p>
 
 ---
 
-⭐ **لا تنسى متابعة حسابي وترك نجمة على مشاريعي!**
+<h3 align="center">
+  💻 Code • Learn • Build • Repeat
+</h3>
+
+<p align="center">
+  🇲🇦 Made with passion from Morocco
+</p>
