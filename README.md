@@ -63,11 +63,11 @@ I'm still learning, experimenting, and building new projects every day.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://cdn.prod.website-files.com/6066fd8abc55def880523995/61be0026f2e0b02a8e007392_webdesigner.jpg" />
+  <img src="https://i.pinimg.com/1200x/05/56/1c/05561c7649953ebb214feb2442d57fd6.jpg" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://i.pinimg.com/736x/02/8e/e1/028ee196381b5ed7d2977cce3fce1fc2.jpg" />
 </p>
 
 ---
