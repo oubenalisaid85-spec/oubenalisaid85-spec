@@ -1,53 +1,105 @@
-<!-- Repo has been edited to be static, see comments for dynamic calls. -->
-hello! here's a little about me:
+# 👋 Hello, I'm Said Oubenali
 
-<h1>
-  i really like music :headphones:
-</h1>
+🇲🇦 Moroccan student & 💻 Web Developer
 
-<!-- Nothing weird to see here -->
+I'm a high school student from Morocco who loves programming, building websites, and learning new technologies.
+
+I enjoy turning ideas into real websites and projects, and I'm always trying to improve my skills.
+
+---
+
+## 🚀 About Me
+
+- 🇲🇦 I'm from Morocco
+- 🎓 High school student
+- 💻 Web Developer
+- 🌐 Interested in Front-End & Web Development
+- 🧠 Always learning new technologies
+- 🛠️ I love building websites and experimenting with new projects
+
+---
+
+## 💻 Technologies & Tools
+
 <p align="center">
-  <a href="https://readme.andyruwruw.com/api/now-playing?open">
-    <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
-    <img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/now-playing.svg">
-    <!-- This is how you'd make the call dynamically <img src="https://readme.andyruwruw.com/api/now-playing"> -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
+</p>
+
+---
+
+## 🌐 What I Do
+
+I mainly work on web development and enjoy creating:
+
+- Responsive websites
+- Modern user interfaces
+- Interactive web projects
+- Personal projects
+- E-commerce websites
+- Experimental programming projects
+
+---
+
+## 📚 Currently Learning
+
+I'm currently improving my skills in:
+
+- JavaScript
+- Modern Front-End Development
+- Web Design
+- Git & GitHub
+- Programming best practices
+
+---
+
+## 🎯 My Goal
+
+My goal is to become a professional developer and build useful, creative, and modern digital products.
+
+I'm still learning, experimenting, and building new projects every day.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 Projects
+
+Some of the things I like building:
+
+🌐 Web Applications  
+🛒 E-commerce Websites  
+🎮 JavaScript Games  
+🎨 Modern UI Designs  
+⚡ Interactive Websites  
+
+Check out my repositories to see what I'm working on.
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/oubenalisaid85-spec">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/top-played.svg">
-  <!-- This is how you'd make the call dynamically <img src="https://readme.andyruwruw.com/api/top-played"> -->
-</p>
- 
-<p align="center">
-  <!-- He came up with the idea of HOW to show React components as an img on a README.md and the now playing component! -->
-  <i>inspired by <a href="https://github.com/natemoo-re">natemoo-re</a></i>
-</p>
+---
 
-<p></p>
-
-<h1>
-  i was a frontend intern at chess.com ♟️
-</h1>
+<h3 align="center">
+  💻 Code • Learn • Build • Repeat
+</h3>
 
 <p align="center">
-  <a href="https://www.chess.com/member/andyruwruw">
-    <img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/chess-games.svg">
-    <!-- This is how you'd make the call dynamically <img src="https://readme.andyruwruw.com/api/chess-games"> -->
-  </a>
-</p>
-
-<p align="center">
-  <i>luckily being good at chess wasn't a pre-req to the job</i>
-</p>
-
-<p></p>
-
-<h1>
-  i'm a vue.js fanboy, but i do some other stuff too :hammer:
-</h1>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/skills.svg">
-  <!-- This is how you'd make the call dynamically <img src="https://readme.andyruwruw.com/api/skills"> -->
+  🇲🇦 Made with passion from Morocco
 </p>
