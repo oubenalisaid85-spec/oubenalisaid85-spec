@@ -97,6 +97,20 @@ Check out my repositories to see what I'm working on.
 
 ---
 
+## 🎵 Music
+
+<p align="center">
+  <a href="https://open.spotify.com/album/0MXsE7FbxHDgzAeqfglpe6?si=p9p-stMjTgeHo6DNNH7Q2A">
+    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
+  </a>
+</p>
+
+<p align="center">
+  <i>🎧 Check out my favorite album on Spotify</i>
+</p>
+
+---
+
 ## 📫 Connect With Me
 
 <p align="center">
@@ -112,7 +126,6 @@ Check out my repositories to see what I'm working on.
   <a href="mailto:oubenalisaid85@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-
 </p>
 
 ---
